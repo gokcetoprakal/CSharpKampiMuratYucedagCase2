@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\bin\Debug\08_Metodlar.exe.config
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\bin\Debug\08_Metodlar.exe
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\bin\Debug\08_Metodlar.pdb
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.exe
+C:\Users\GKCE\Desktop\CASE2\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.pdb
