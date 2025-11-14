@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\bin\Debug\02_VeriTipleriveDonusum.exe.config
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\bin\Debug\02_VeriTipleriveDonusum.exe
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\bin\Debug\02_VeriTipleriveDonusum.pdb
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\obj\Debug\02_VeriTipleriveDonusum.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\obj\Debug\02_VeriTipleriveDonusum.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\obj\Debug\02_VeriTipleriveDonusum.exe
+C:\Users\GKCE\Desktop\DERS\C# AKADEMİQ\YOUTUBE KAMP C# ÇALIŞMA\02_VeriTipleriveDonusum\02_VeriTipleriveDonusum\obj\Debug\02_VeriTipleriveDonusum.pdb
