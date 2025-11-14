@@ -1,0 +1,7 @@
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\bin\Debug\03_KararYapilari.exe.config
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\bin\Debug\03_KararYapilari.exe
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\bin\Debug\03_KararYapilari.pdb
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\obj\Debug\03_KararYapilari.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\obj\Debug\03_KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\obj\Debug\03_KararYapilari.exe
+C:\Users\GKCE\Desktop\CASE2\03_KararYapilari\03_KararYapilari\obj\Debug\03_KararYapilari.pdb
